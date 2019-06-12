@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://habitsblog.github.io/tag/hyde/</loc>
-<lastmod>2019-06-12T20:26:58+02:00</lastmod>
+<lastmod>2019-06-12T20:53:38+02:00</lastmod>
 </url>
 <url>
 <loc>https://habitsblog.github.io/tag/hydejack/</loc>
-<lastmod>2019-06-12T20:26:58+02:00</lastmod>
+<lastmod>2019-06-12T20:53:38+02:00</lastmod>
 </url>
 <url>
 <loc>https://habitsblog.github.io/2019/05/13/atomic34/</loc>
@@ -94,6 +94,15 @@
 </url>
 <url>
 <loc>https://habitsblog.github.io/licenses/Apache-2.0/</loc>
+</url>
+<url>
+<loc>https://habitsblog.github.io/assets/bower_components/html5shiv/</loc>
+</url>
+<url>
+<loc>https://habitsblog.github.io/assets/bower_components/katex/dist/</loc>
+</url>
+<url>
+<loc>https://habitsblog.github.io/assets/bower_components/webfontloader/</loc>
 </url>
 <url>
 <loc>https://habitsblog.github.io/blog/page-2/</loc>
