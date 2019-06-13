@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://habitsblog.github.io/tag/hyde/</loc>
-<lastmod>2019-06-14T00:19:22+02:00</lastmod>
+<lastmod>2019-06-14T00:25:14+02:00</lastmod>
 </url>
 <url>
 <loc>https://habitsblog.github.io/tag/hydejack/</loc>
-<lastmod>2019-06-14T00:19:22+02:00</lastmod>
+<lastmod>2019-06-14T00:25:14+02:00</lastmod>
 </url>
 <url>
 <loc>https://habitsblog.github.io/2019/05/13/atomic34/</loc>
@@ -46,10 +46,6 @@
 </url>
 <url>
 <loc>https://habitsblog.github.io/2019/06/13/atomic13/</loc>
-<lastmod>2019-06-13T00:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>https://habitsblog.github.io/2019/06/13/matt5/</loc>
 <lastmod>2019-06-13T00:00:00+02:00</lastmod>
 </url>
 <url>
@@ -111,9 +107,6 @@
 </url>
 <url>
 <loc>https://habitsblog.github.io/blog/page-2/</loc>
-</url>
-<url>
-<loc>https://habitsblog.github.io/blog/page-3/</loc>
 </url>
 <url>
 <loc>https://habitsblog.github.io/assets/icomoon/demo.html</loc>
